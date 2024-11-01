@@ -11,3 +11,14 @@ python -m venv ./env
 source ./env/bin/activate
 pip freeze > requirements.txt
 ```
+
+```
+gpt4all
+chromadb
+beautifulsoup4
+langchain_ollama
+langchain_community
+langchain
+```
+
+https://www.youtube.com/watch?v=CPgp8MhmGVY
